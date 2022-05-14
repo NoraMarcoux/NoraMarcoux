@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoraMarcoux
 - 👀 I’m interested in Data Science, Data Analytics
-- 🌱 I’m currently finishing my Master's in Data Science
+- 🌱 Master´s Degree in Data Science @ OsloMet
 - 📫 How to reach me : nora.marcoux@gmail.com
 
 <!---
